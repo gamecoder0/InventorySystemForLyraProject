@@ -1,0 +1,1 @@
+#include "C:/Users/elegant/Documents/Unreal Projects/GameLyraTest/Plugins/GameFeatures/LyraInteractionManager/Source/LyraInteractionManagerRuntime/Public/UI/Weapons/LyraLayerWeaponUserInterface.h"

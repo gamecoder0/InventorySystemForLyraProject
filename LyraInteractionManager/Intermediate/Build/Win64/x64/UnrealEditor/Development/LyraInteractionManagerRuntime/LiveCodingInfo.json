@@ -1,0 +1,38 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LyraInteractionManagerRuntime.cpp.obj": [
+			"InventoryFragment_AbilityTagForActivation.gen.cpp.obj",
+			"InventoryFragment_QuickBar.gen.cpp.obj",
+			"InventoryFragment_SearchAmmo.gen.cpp.obj",
+			"InventoryFragment_TypesActionsWhenSelectingItem.gen.cpp.obj",
+			"LayerDataParameters.gen.cpp.obj",
+			"LayerParameters.gen.cpp.obj",
+			"LyraGameplayAbility_ToggleWidget.gen.cpp.obj",
+			"LyraInteractionManagerRuntime.init.gen.cpp.obj",
+			"LyraLayerWeaponUserInterface.gen.cpp.obj",
+			"LyraGameplayAbility_ToggleWidget.cpp.obj",
+			"LyraControllerComponent_ArmorParts.cpp.obj",
+			"LyraGameplayAbility_WithReloadEquipment.cpp.obj",
+			"LyraLayerQuickBarComponent.cpp.obj",
+			"LyraLayersEquipmentManagerComponent.cpp.obj",
+			"AbilityTask_WaitForInteractableTargets_SphereTrace.cpp.obj",
+			"WorldCollectable.cpp.obj",
+			"InventoryFragment_AbilityTagForActivation.cpp.obj",
+			"InventoryFragment_ArmorParts.cpp.obj",
+			"InventoryFragment_DropItem.cpp.obj",
+			"InventoryFragment_QuickBar.cpp.obj",
+			"InventoryFragment_SearchAmmo.cpp.obj",
+			"InventoryFragment_SetLayerStats.cpp.obj",
+			"InventoryFragment_TypesActionsWhenSelectingItem.cpp.obj",
+			"LayerDataParameters.cpp.obj",
+			"LyraLayerInventoryItemDefinition.cpp.obj",
+			"LyraLayerInventoryItemInstance.cpp.obj",
+			"LyraLayersInventoryManagerComponent.cpp.obj",
+			"LyraInteractionManagerRuntimeModule.cpp.obj",
+			"LyraButtonBase_TriggerAbility.cpp.obj",
+			"LyraGridView.cpp.obj",
+			"LyraLayerWeaponUserInterface.cpp.obj"
+		]
+	}
+}

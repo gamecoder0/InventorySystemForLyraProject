@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\source\\lyrainteractionmanagerruntime\\private\\inventory\\inventoryfragment_setlayerstats.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lyrainteractionmanagerruntime\\definitions.lyrainteractionmanagerruntime.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\source\\lyrainteractionmanagerruntime\\public\\inventory\\inventoryfragment_setlayerstats.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\source\\lyrainteractionmanagerruntime\\public\\inventory\\lyralayerinventoryitemdefinition.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\source\\lyragame\\inventory\\lyrainventoryitemdefinition.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyrainventoryitemdefinition.generated.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\lyrainteractionmanagerruntime\\uht\\lyralayerinventoryitemdefinition.generated.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\lyrainteractionmanagerruntime\\uht\\inventoryfragment_setlayerstats.generated.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\source\\lyragame\\inventory\\lyrainventoryiteminstance.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\source\\lyragame\\system\\gameplaytagstack.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\classes\\net\\serialization\\fastarrayserializer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\misc\\guidreferences.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\pushmodel\\pushmodel.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\netcoremodule.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\netcore\\uht\\fastarrayserializer.generated.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\gameplaytagstack.generated.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyrainventoryiteminstance.generated.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\lyrainteractionmanagerruntime\\uht\\inventoryfragment_setlayerstats.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

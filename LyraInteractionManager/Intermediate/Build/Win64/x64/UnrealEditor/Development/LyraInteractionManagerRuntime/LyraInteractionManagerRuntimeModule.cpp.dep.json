@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\source\\lyrainteractionmanagerruntime\\private\\lyrainteractionmanagerruntimemodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lyrainteractionmanagerruntime\\definitions.lyrainteractionmanagerruntime.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\source\\lyrainteractionmanagerruntime\\public\\lyrainteractionmanagerruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

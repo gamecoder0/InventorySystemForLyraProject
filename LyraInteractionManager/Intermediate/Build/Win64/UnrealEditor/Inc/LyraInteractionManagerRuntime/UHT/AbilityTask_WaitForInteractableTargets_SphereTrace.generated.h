@@ -1,0 +1,122 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "Interaction/Tasks/AbilityTask_WaitForInteractableTargets_SphereTrace.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class AWorldCollectable;
+class UAbilitySystemComponent;
+class UAbilityTask_WaitForInteractableTargets_SphereTrace;
+class UGameplayAbility;
+class ULyraGameplayAbility;
+class ULyraInventoryItemFragment;
+struct FCollisionProfileName;
+struct FGameplayAbilityTargetingLocationInfo;
+struct FGameplayEventData;
+struct FGameplayTag;
+struct FInteractionQuery;
+#ifdef LYRAINTERACTIONMANAGERRUNTIME_AbilityTask_WaitForInteractableTargets_SphereTrace_generated_h
+#error "AbilityTask_WaitForInteractableTargets_SphereTrace.generated.h already included, missing '#pragma once' in AbilityTask_WaitForInteractableTargets_SphereTrace.h"
+#endif
+#define LYRAINTERACTIONMANAGERRUNTIME_AbilityTask_WaitForInteractableTargets_SphereTrace_generated_h
+
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_16_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FMessageItemDefinition_Statics; \
+	LYRAINTERACTIONMANAGERRUNTIME_API static class UScriptStruct* StaticStruct();
+
+
+template<> LYRAINTERACTIONMANAGERRUNTIME_API UScriptStruct* StaticStruct<struct FMessageItemDefinition>();
+
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execGetStatTagStackCountOfFragment); \
+	DECLARE_FUNCTION(execFindFragmentByClass); \
+	DECLARE_FUNCTION(execGetGameplayEventData); \
+	DECLARE_FUNCTION(execGetWorldCollectable);
+
+
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_27_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUInteractableTargetTrigger(); \
+	friend struct Z_Construct_UClass_UInteractableTargetTrigger_Statics; \
+public: \
+	DECLARE_CLASS(UInteractableTargetTrigger, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/LyraInteractionManagerRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UInteractableTargetTrigger)
+
+
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_27_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UInteractableTargetTrigger(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UInteractableTargetTrigger(UInteractableTargetTrigger&&); \
+	UInteractableTargetTrigger(const UInteractableTargetTrigger&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UInteractableTargetTrigger); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UInteractableTargetTrigger); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UInteractableTargetTrigger) \
+	NO_API virtual ~UInteractableTargetTrigger();
+
+
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_24_PROLOG
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_27_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_27_INCLASS_NO_PURE_DECLS \
+	FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_27_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> LYRAINTERACTIONMANAGERRUNTIME_API UClass* StaticClass<class UInteractableTargetTrigger>();
+
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_67_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execWaitForInteractableTargets_SphereTrace);
+
+
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_67_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUAbilityTask_WaitForInteractableTargets_SphereTrace(); \
+	friend struct Z_Construct_UClass_UAbilityTask_WaitForInteractableTargets_SphereTrace_Statics; \
+public: \
+	DECLARE_CLASS(UAbilityTask_WaitForInteractableTargets_SphereTrace, UAbilityTask_WaitForInteractableTargets, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/LyraInteractionManagerRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UAbilityTask_WaitForInteractableTargets_SphereTrace)
+
+
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_67_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UAbilityTask_WaitForInteractableTargets_SphereTrace(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UAbilityTask_WaitForInteractableTargets_SphereTrace(UAbilityTask_WaitForInteractableTargets_SphereTrace&&); \
+	UAbilityTask_WaitForInteractableTargets_SphereTrace(const UAbilityTask_WaitForInteractableTargets_SphereTrace&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAbilityTask_WaitForInteractableTargets_SphereTrace); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAbilityTask_WaitForInteractableTargets_SphereTrace); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAbilityTask_WaitForInteractableTargets_SphereTrace) \
+	NO_API virtual ~UAbilityTask_WaitForInteractableTargets_SphereTrace();
+
+
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_61_PROLOG
+#define FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_67_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_67_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_67_INCLASS_NO_PURE_DECLS \
+	FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h_67_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> LYRAINTERACTIONMANAGERRUNTIME_API UClass* StaticClass<class UAbilityTask_WaitForInteractableTargets_SphereTrace>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Users_elegant_Documents_Unreal_Projects_GameLyraTest_Plugins_GameFeatures_LyraInteractionManager_Source_LyraInteractionManagerRuntime_Public_Interaction_Tasks_AbilityTask_WaitForInteractableTargets_SphereTrace_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

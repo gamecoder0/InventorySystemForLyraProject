@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\source\\lyrainteractionmanagerruntime\\private\\inventory\\lyralayerinventoryitemdefinition.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lyrainteractionmanagerruntime\\definitions.lyrainteractionmanagerruntime.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\source\\lyrainteractionmanagerruntime\\public\\inventory\\lyralayerinventoryitemdefinition.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\source\\lyragame\\inventory\\lyrainventoryitemdefinition.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyrainventoryitemdefinition.generated.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\lyrainteractionmanagerruntime\\uht\\lyralayerinventoryitemdefinition.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\public\\nativegameplaytags.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagsmanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagsmanager.generated.h",
+            "c:\\users\\elegant\\documents\\unreal projects\\gamelyratest\\plugins\\gamefeatures\\lyrainteractionmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\lyrainteractionmanagerruntime\\uht\\lyralayerinventoryitemdefinition.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
